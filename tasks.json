@@ -1,0 +1,22 @@
+{
+  "33effc8d-5e85-4331-aee9-380b656f8642": {
+    "priority": "2",
+    "description": "Kup ziemniaki"
+  },
+  "e654f55b-e6d0-475d-bc1e-82d0ae3e02e3": {
+    "priority": "1",
+    "description": "Odebrac przesylke"
+  },
+  "52de9c25-dae4-465b-ad27-7544ffcab637": {
+    "priority": "5",
+    "description": "Testowy"
+  },
+  "01151294-afb1-4418-838f-d2a41c8e46c6": {
+    "priority": "3",
+    "description": "Zadanie 1"
+  },
+  "ce14f9e2-68d2-4cc2-8978-357f38af85c5": {
+    "priority": "5",
+    "description": "Zamowic pizze"
+  }
+}
